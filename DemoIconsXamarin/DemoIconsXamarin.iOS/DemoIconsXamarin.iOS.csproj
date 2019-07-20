@@ -68,13 +68,15 @@
     <Compile Include="Main.cs" />
     <Compile Include="AppDelegate.cs" />
     <None Include="Entitlements.plist" />
+    <Content Include="glyphicons-halflings-regular.ttf" />
     <None Include="Info.plist" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <BundleResource Include="Resources\Font Awesome 5 Brands-Regular-400.otf" />
     <BundleResource Include="Resources\Font Awesome 5 Free-Regular-400.otf" />
     <BundleResource Include="Resources\Font Awesome 5 Free-Solid-900.otf" />
-    <BundleResource Include="Resources\glyphicons-halflings-regular.ttf" />
-    <BundleResource Include="Resources\materialdesignicons-webfont.ttf" />
+    <Content Include="Resources\glyphicons-halflings-regular.ttf" />
+    <Content Include="Resources\materialdesignicons-webfont.ttf" />
+    <Content Include="materialdesignicons-webfont.ttf" />
   </ItemGroup>
   <ItemGroup>
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Contents.json">

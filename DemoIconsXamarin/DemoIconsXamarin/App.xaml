@@ -15,13 +15,18 @@
 
             <OnPlatform x:Key="Bootstrap" x:TypeArguments="x:String">
                 <On Platform="iOS" Value="Glyphicons" />
+                <On Platform="UWP"  Value="Assets/glyphicons-halflings-regular.ttf#Glyphicons"/>
                 <On Platform="Android" Value="glyphicons-halflings-regular.ttf#Glyphicons" />
+             
             </OnPlatform>
 
             <OnPlatform x:Key="Material" x:TypeArguments="x:String">
                 <On Platform="iOS" Value="Material Design Icons" />
+                <On Platform="UWP"  Value="Assets/materialdesignicons-webfont.ttf#Material Design Icons"/>
                 <On Platform="Android" Value="materialdesignicons-webfont.ttf#Material Design Icons" />
             </OnPlatform>
+
+
 
             <Style TargetType="{x:Type Label}" x:Key="MaterialIcons">
                 <Setter Property="FontFamily" Value="{StaticResource Material}"/>
