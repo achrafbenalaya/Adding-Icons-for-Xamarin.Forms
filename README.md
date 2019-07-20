@@ -3,7 +3,7 @@
 
 Font Awesome Files:
 
-You can get the files used in Demi from this link [Link](https://fontawesome.com/)
+You can get the files used in Demo from this link [Link](https://fontawesome.com/)
 
 
 Material Design Files :
