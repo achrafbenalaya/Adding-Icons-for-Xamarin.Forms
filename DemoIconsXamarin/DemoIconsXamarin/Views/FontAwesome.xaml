@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DemoIconsXamarin.Views.FontAwesome"
+             Title="FontAwesome">
+    <ContentPage.Content>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition />
+                <RowDefinition />
+                <RowDefinition />
+                <RowDefinition />
+            </Grid.RowDefinitions>
+
+            <Label Text="&#xf461;" 
+                   FontSize="50"
+                   TextColor="SkyBlue"
+                   VerticalOptions="Center" 
+                   HorizontalOptions="Center"    
+                   Grid.Column="0"
+                   Grid.Row="0">
+                <Label.FontFamily>
+                    <OnPlatform x:TypeArguments="x:String"
+                                Android="Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free Solid" 
+                                iOS="Font Awesome 5 Free" 
+                                WinPhone="Assets/Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free" />
+                </Label.FontFamily>
+            </Label>
+
+            <Label Text="&#xf717;" 
+                   FontSize="50"
+                   TextColor="Black"
+                   VerticalOptions="Center" 
+                   HorizontalOptions="Center"    
+                   Grid.Column="0"
+                   Grid.Row="1">
+                <Label.FontFamily>
+                    <OnPlatform x:TypeArguments="x:String"
+                                Android="Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free Solid" 
+                                iOS="Font Awesome 5 Free" 
+                                WinPhone="Assets/Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free" />
+                </Label.FontFamily>
+            </Label>
+
+            <Label Text="&#xf559;" 
+                   FontSize="50"
+                   TextColor="DeepPink"
+                   VerticalOptions="Center" 
+                   HorizontalOptions="Center"    
+                   Grid.Column="0"
+                   Grid.Row="2">
+                <Label.FontFamily>
+                    <OnPlatform x:TypeArguments="x:String"
+                                Android="Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free Solid" 
+                                iOS="Font Awesome 5 Free" 
+                                WinPhone="Assets/Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free" />
+                </Label.FontFamily>
+            </Label>
+
+            <Label Text="&#xf515;" 
+                   FontSize="50"
+                   TextColor="Orange"
+                   VerticalOptions="Center" 
+                   HorizontalOptions="Center"    
+                   Grid.Column="0"
+                   Grid.Row="3">
+                <Label.FontFamily>
+                    <OnPlatform x:TypeArguments="x:String"
+                                Android="Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free Solid" 
+                                iOS="Font Awesome 5 Free" 
+                                WinPhone="Assets/Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free" />
+                </Label.FontFamily>
+            </Label>
+
+
+
+
+
+
+
+            <Label Text="&#xf434;" 
+                   FontSize="50"
+                   TextColor="OrangeRed"
+                   VerticalOptions="Center" 
+                   HorizontalOptions="Center"    
+                   Grid.Column="1"
+                   Grid.Row="0">
+                <Label.FontFamily>
+                    <OnPlatform x:TypeArguments="x:String"
+                                Android="Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free Solid" 
+                                iOS="Font Awesome 5 Free" 
+                                WinPhone="Assets/Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free" />
+                </Label.FontFamily>
+            </Label>
+
+            <Label Text="&#xf0c5;" 
+                   FontSize="50"
+                   TextColor="DimGray"
+                   VerticalOptions="Center" 
+                   HorizontalOptions="Center"    
+                   Grid.Column="1"
+                   Grid.Row="1">
+                <Label.FontFamily>
+                    <OnPlatform x:TypeArguments="x:String"
+                                Android="Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free Solid" 
+                                iOS="Font Awesome 5 Free" 
+                                WinPhone="Assets/Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free" />
+                </Label.FontFamily>
+            </Label>
+
+            <Label Text="&#xf1fd;" 
+                   FontSize="50"
+                   TextColor="DarkViolet"
+                   VerticalOptions="Center" 
+                   HorizontalOptions="Center"    
+                   Grid.Column="1"
+                   Grid.Row="2">
+                <Label.FontFamily>
+                    <OnPlatform x:TypeArguments="x:String"
+                                Android="Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free Solid" 
+                                iOS="Font Awesome 5 Free" 
+                                WinPhone="Assets/Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free" />
+                </Label.FontFamily>
+            </Label>
+
+            <Label Text="&#xf02e;" 
+                   FontSize="50"
+                   TextColor="Black"
+                   VerticalOptions="Center" 
+                   HorizontalOptions="Center"    
+                   Grid.Column="1"
+                   Grid.Row="3">
+                <Label.FontFamily>
+                    <OnPlatform x:TypeArguments="x:String"
+                                Android="Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free Solid" 
+                                iOS="Font Awesome 5 Free" 
+                                WinPhone="Assets/Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free" />
+                </Label.FontFamily>
+            </Label>
+
+
+
+
+
+
+            <Label Text="&#xf188;" 
+                   FontSize="50"
+                   TextColor="Red"
+                   VerticalOptions="Center" 
+                   HorizontalOptions="Center"    
+                   Grid.Column="2"
+                   Grid.Row="0">
+                <Label.FontFamily>
+                    <OnPlatform x:TypeArguments="x:String"
+                                Android="Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free Solid" 
+                                iOS="Font Awesome 5 Free" 
+                                WinPhone="Assets/Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free" />
+                </Label.FontFamily>
+            </Label>
+
+            <Label Text="&#xf1f6;" 
+                   FontSize="50"
+                   TextColor="DarkOrange"
+                   VerticalOptions="Center" 
+                   HorizontalOptions="Center"    
+                   Grid.Column="2"
+                   Grid.Row="1">
+                <Label.FontFamily>
+                    <OnPlatform x:TypeArguments="x:String"
+                                Android="Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free Solid" 
+                                iOS="Font Awesome 5 Free" 
+                                WinPhone="Assets/Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free" />
+                </Label.FontFamily>
+            </Label>
+
+            <Label Text="&#xf0f9;" 
+                   FontSize="50"
+                   TextColor="IndianRed"
+                   VerticalOptions="Center" 
+                   HorizontalOptions="Center"    
+                   Grid.Column="2"
+                   Grid.Row="2">
+                <Label.FontFamily>
+                    <OnPlatform x:TypeArguments="x:String"
+                                Android="Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free Solid" 
+                                iOS="Font Awesome 5 Free" 
+                                WinPhone="Assets/Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free" />
+                </Label.FontFamily>
+            </Label>
+
+            <Label Text="&#xf030;" 
+                   FontSize="50"
+                   TextColor="CornflowerBlue"
+                   VerticalOptions="Center" 
+                   HorizontalOptions="Center"    
+                   Grid.Column="2"
+                   Grid.Row="3">
+                <Label.FontFamily>
+                    <OnPlatform x:TypeArguments="x:String"
+                                Android="Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free Solid" 
+                                iOS="Font Awesome 5 Free" 
+                                WinPhone="Assets/Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free" />
+                </Label.FontFamily>
+            </Label>
+
+            <Label Text="&#xf55f;" 
+                   FontSize="50"
+                   TextColor="DarkOliveGreen"
+                   VerticalOptions="Center" 
+                   HorizontalOptions="Center"    
+                   Grid.Column="3"
+                   Grid.Row="0">
+                <Label.FontFamily>
+                    <OnPlatform x:TypeArguments="x:String"
+                                Android="Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free Solid" 
+                                iOS="Font Awesome 5 Free" 
+                                WinPhone="Assets/Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free" />
+                </Label.FontFamily>
+            </Label>
+
+            <Label Text="&#xf6be;" 
+                   FontSize="50"
+                   TextColor="DarkViolet"
+                   VerticalOptions="Center" 
+                   HorizontalOptions="Center"    
+                   Grid.Column="3"
+                   Grid.Row="1">
+                <Label.FontFamily>
+                    <OnPlatform x:TypeArguments="x:String"
+                                Android="Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free Solid" 
+                                iOS="Font Awesome 5 Free" 
+                                WinPhone="Assets/Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free" />
+                </Label.FontFamily>
+            </Label>
+
+            <Label Text="&#xf73d;" 
+                   FontSize="50"
+                   TextColor="DarkSalmon"
+                   VerticalOptions="Center" 
+                   HorizontalOptions="Center"    
+                   Grid.Column="3"
+                   Grid.Row="2">
+                <Label.FontFamily>
+                    <OnPlatform x:TypeArguments="x:String"
+                                Android="Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free Solid" 
+                                iOS="Font Awesome 5 Free" 
+                                WinPhone="Assets/Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free" />
+                </Label.FontFamily>
+            </Label>
+
+            <Label Text="&#xf126;" 
+                   FontSize="50"
+                   TextColor="Salmon"
+                   VerticalOptions="Center" 
+                   HorizontalOptions="Center"    
+                   Grid.Column="3"
+                   Grid.Row="3">
+                <Label.FontFamily>
+                    <OnPlatform x:TypeArguments="x:String"
+                                Android="Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free Solid" 
+                                iOS="Font Awesome 5 Free" 
+                                WinPhone="Assets/Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free" />
+                </Label.FontFamily>
+            </Label>
+
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

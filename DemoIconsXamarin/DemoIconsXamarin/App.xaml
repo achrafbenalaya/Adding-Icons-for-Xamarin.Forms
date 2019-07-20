@@ -4,12 +4,42 @@
              x:Class="DemoIconsXamarin.App">
     <Application.Resources>
         <ResourceDictionary>
-            <!--Global Styles-->
+
+
+            <!--Global Styles for menu bar-->
             <Color x:Key="NavigationPrimary">#2196F3</Color>
             <Style TargetType="NavigationPage">
                 <Setter Property="BarBackgroundColor" Value="{StaticResource NavigationPrimary}" />
                 <Setter Property="BarTextColor" Value="White" />
             </Style>
+
+            <OnPlatform x:Key="Bootstrap" x:TypeArguments="x:String">
+                <On Platform="iOS" Value="Glyphicons" />
+                <On Platform="Android" Value="glyphicons-halflings-regular.ttf#Glyphicons" />
+            </OnPlatform>
+
+            <OnPlatform x:Key="Material" x:TypeArguments="x:String">
+                <On Platform="iOS" Value="Material Design Icons" />
+                <On Platform="Android" Value="materialdesignicons-webfont.ttf#Material Design Icons" />
+            </OnPlatform>
+
+            <Style TargetType="{x:Type Label}" x:Key="MaterialIcons">
+                <Setter Property="FontFamily" Value="{StaticResource Material}"/>
+                <Setter Property="FontSize" Value="60"/>
+                <Setter Property="HorizontalOptions" Value="Center"/>
+                <Setter Property="VerticalOptions" Value="Center"/>
+                <Setter Property="TextColor" Value="DarkViolet"/>
+                <Setter Property="FontSize" Value="Large"/>
+            </Style>
+            <Style TargetType="{x:Type Label}" x:Key="BotstrapIcons">
+                <Setter Property="FontFamily" Value="{StaticResource Bootstrap}"/>
+                <Setter Property="FontSize" Value="60"/>
+                <Setter Property="HorizontalOptions" Value="Center"/>
+                <Setter Property="VerticalOptions" Value="Center"/>
+                <Setter Property="TextColor" Value="DarkViolet"/>
+            </Style>
+
+
         </ResourceDictionary>
     </Application.Resources>
 </Application>

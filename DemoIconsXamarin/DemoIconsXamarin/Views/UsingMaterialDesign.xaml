@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DemoIconsXamarin.Views.UsingMaterialDesign"
+             Title="Material Design">
+    <ContentPage.Content>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition />
+                <RowDefinition />
+                <RowDefinition />
+                <RowDefinition />
+            </Grid.RowDefinitions>
+
+            <Label Style="{StaticResource MaterialIcons}"
+                   TextColor="Red" Text="&#xf00a;" FontSize="60"/>
+            <Label Style="{StaticResource MaterialIcons}"
+                   Grid.Column="0" Grid.Row="1"
+                   TextColor="Brown" 
+                   Text="&#xf006;" FontSize="60"/>
+            <Label Style="{StaticResource MaterialIcons}"
+                   Grid.Column="0" Grid.Row="2"
+                   TextColor="BlueViolet" 
+                   Text="&#xf008;" FontSize="60"/>
+            <Label Style="{StaticResource MaterialIcons}"
+                   Grid.Column="0" Grid.Row="3"
+                   TextColor="CadetBlue" 
+                   Text="&#xf032;" FontSize="60"/>
+
+            <Label Style="{StaticResource MaterialIcons}"
+                   Grid.Column="1" Grid.Row="0"
+                   Text="&#xf01d;" TextColor="Indigo" FontSize="60"/>
+            <Label Style="{StaticResource MaterialIcons}"
+                   Grid.Column="1" Grid.Row="1"
+                   TextColor="Coral" 
+                   Text="&#xf01f;" FontSize="60"/>
+            <Label Style="{StaticResource MaterialIcons}"
+                   Grid.Column="1" Grid.Row="2"
+                   Text="&#xf031;" TextColor="Gold" FontSize="60"/>
+            <Label Style="{StaticResource MaterialIcons}"
+                   Grid.Column="1" Grid.Row="3"
+                   Text="&#xf033;" TextColor="Green" FontSize="60"/>
+            <Label Style="{StaticResource MaterialIcons}"
+                   Grid.Column="2" Grid.Row="0"
+                   Text="&#xf037;" TextColor="RoyalBlue" FontSize="60"/>
+            <Label Style="{StaticResource MaterialIcons}"
+                   Grid.Column="2" Grid.Row="1"
+                   TextColor="DeepPink"
+                   Text="&#xf06c;" FontSize="60"/>
+            <Label Style="{StaticResource MaterialIcons}"
+                   Grid.Column="2" Grid.Row="2"
+                   TextColor="SandyBrown" 
+                   Text="&#xf07f;" FontSize="60"/>
+            <Label Style="{StaticResource MaterialIcons}"
+                   Grid.Column="2" Grid.Row="3"
+                   TextColor="DarkBlue" 
+                   Text="&#xf0c4;" FontSize="60"/>
+
+            <Label Style="{StaticResource MaterialIcons}"
+                   Grid.Column="3" Grid.Row="0"
+                   Text="&#xf0ef;" TextColor="Green" FontSize="60"/>
+            <Label Style="{StaticResource MaterialIcons}"
+                   Grid.Column="3" Grid.Row="1"
+                   TextColor="Aquamarine"
+                   Text="&#xf10b;" FontSize="60"/>
+            <Label Style="{StaticResource MaterialIcons}"
+                   Grid.Column="3" Grid.Row="2"
+                   TextColor="Magenta" 
+                   Text="&#xf108;" FontSize="60"/>
+            <Label Style="{StaticResource MaterialIcons}"
+                   Grid.Column="3" Grid.Row="3"
+                   TextColor="Peru" 
+                   Text="&#xf116;" FontSize="60"/>
+
+
+
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

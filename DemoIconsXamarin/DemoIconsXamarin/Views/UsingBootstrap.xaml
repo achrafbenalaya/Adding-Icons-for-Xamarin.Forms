@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DemoIconsXamarin.Views.UsingBootstrap"
+             Title="Bootstrap">
+    <ContentPage.Content>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition />
+                <RowDefinition />
+                <RowDefinition />
+                <RowDefinition />
+            </Grid.RowDefinitions>
+
+            <Label Style="{StaticResource BotstrapIcons}"
+                   TextColor="RoyalBlue" Text="&#xe233;" FontSize="60"/>
+            <Label Style="{StaticResource BotstrapIcons}"
+                   Grid.Column="0" Grid.Row="1"
+                   TextColor="DeepPink"
+                   Text="&#xe231;" FontSize="60"/>
+            <Label Style="{StaticResource BotstrapIcons}"
+                   Grid.Column="0" Grid.Row="2"
+                   TextColor="Peru"
+                   Text="&#x231b;" FontSize="60"/>
+            <Label Style="{StaticResource BotstrapIcons}"
+                   Grid.Column="0" Grid.Row="3"
+                   TextColor="CadetBlue"
+                   Text="&#xe215;" FontSize="60"/>
+            <Label Style="{StaticResource BotstrapIcons}"
+                   Grid.Column="1" Grid.Row="0"
+                   Text="&#xe209;" TextColor="DarkRed" FontSize="70"/>
+            <Label Style="{StaticResource BotstrapIcons}"
+                   Grid.Column="1" Grid.Row="1"
+                   TextColor="Chocolate"
+                   Text="&#xe201;" FontSize="60"/>
+            <Label Style="{StaticResource BotstrapIcons}"
+                   Grid.Column="1" Grid.Row="2"
+                   Text="&#xe191;" TextColor="DeepSkyBlue" FontSize="60"/>
+            <Label Style="{StaticResource BotstrapIcons}"
+                   Grid.Column="1" Grid.Row="3"
+                   TextColor="Indigo"
+                   Text="&#xe182;" FontSize="60"/>
+            <Label Style="{StaticResource BotstrapIcons}"
+                   Grid.Column="2" Grid.Row="0"
+                   Text="&#xe177;" TextColor="Black" FontSize="60"/>
+            <Label Style="{StaticResource BotstrapIcons}"
+                   Grid.Column="2" Grid.Row="1"
+                   TextColor="DodgerBlue"
+                   Text="&#xe171;" FontSize="60"/>
+            <Label Style="{StaticResource BotstrapIcons}"
+                   Grid.Column="2" Grid.Row="2"
+                   TextColor="Red"
+                   Text="&#xe165;" FontSize="60"/>
+            <Label Style="{StaticResource BotstrapIcons}"
+                   Grid.Column="2" Grid.Row="3"
+                   TextColor="GreenYellow"
+                   Text="&#xe146;" FontSize="60"/>
+
+            <Label Style="{StaticResource BotstrapIcons}"
+                   Grid.Column="3" Grid.Row="0"
+                   Text="&#xe143;" TextColor="HotPink" FontSize="60"/>
+            <Label Style="{StaticResource BotstrapIcons}"
+                   Grid.Column="3" Grid.Row="1"
+                   TextColor="Brown"
+                   Text="&#xe009;" FontSize="60"/>
+            <Label Style="{StaticResource BotstrapIcons}"
+                   Grid.Column="3" Grid.Row="2"
+                   TextColor="DarkSlateBlue"
+                   Text="&#xe141;" FontSize="60"/>
+            <Label Style="{StaticResource BotstrapIcons}"
+                   Grid.Column="3" Grid.Row="3"
+                   TextColor="DodgerBlue"
+                   Text="&#xe135;" FontSize="60"/>
+
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

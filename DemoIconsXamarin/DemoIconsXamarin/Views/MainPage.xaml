@@ -4,26 +4,40 @@
             xmlns:views="clr-namespace:DemoIconsXamarin.Views"
             x:Class="DemoIconsXamarin.Views.MainPage">
     <TabbedPage.Children>
-        <NavigationPage Title="Browse">
-            <NavigationPage.Icon>
-                <OnPlatform x:TypeArguments="FileImageSource">
-                    <On Platform="iOS" Value="tab_feed.png"/>
-                </OnPlatform>
-            </NavigationPage.Icon>
-            <x:Arguments>
-                <views:ItemsPage />
-            </x:Arguments>
-        </NavigationPage>
-        
-        <NavigationPage Title="About">
+
+        <NavigationPage Title="Bootstrap">
             <NavigationPage.Icon>
                 <OnPlatform x:TypeArguments="FileImageSource">
                     <On Platform="iOS" Value="tab_about.png"/>
                 </OnPlatform>
             </NavigationPage.Icon>
             <x:Arguments>
-                <views:AboutPage />
+                <views:UsingBootstrap />
             </x:Arguments>
         </NavigationPage>
+
+        <NavigationPage Title="MaterialDesign">
+            <NavigationPage.Icon>
+                <OnPlatform x:TypeArguments="FileImageSource">
+                    <On Platform="iOS" Value="tab_about.png"/>
+                </OnPlatform>
+            </NavigationPage.Icon>
+            <x:Arguments>
+                <views:UsingMaterialDesign />
+            </x:Arguments>
+        </NavigationPage>
+
+
+        <NavigationPage Title="FontAwesome">
+            <NavigationPage.Icon>
+                <OnPlatform x:TypeArguments="FileImageSource">
+                    <On Platform="iOS" Value="tab_about.png"/>
+                </OnPlatform>
+            </NavigationPage.Icon>
+            <x:Arguments>
+                <views:FontAwesome />
+            </x:Arguments>
+        </NavigationPage>
+
     </TabbedPage.Children>
 </TabbedPage>
