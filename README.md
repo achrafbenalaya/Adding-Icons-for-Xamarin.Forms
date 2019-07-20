@@ -13,10 +13,9 @@ Bootstrap File
 You can get the "glyphicons-halflings-regular.ttf" file from this [Link](https://github.com/twbs/bootstrap-sass/blob/master/assets/fonts/bootstrap/glyphicons-halflings-regular.ttf)
 
 
-![Bootstrap](https://raw.githubusercontent.com/achrafbenalaya/Adding-Icons-for-Xamarin.Forms/master/DemoIconsXamarin/DemoIconsXamarin/Screenshots/Screenshot_20190720-214459.jpg?token=ADGHC2RQOYGQXLYQCJCNTGK5HS5GU)
 
-![Material Design](https://github.com/achrafbenalaya/Adding-Icons-for-Xamarin.Forms/blob/master/DemoIconsXamarin/DemoIconsXamarin/Screenshots/Screenshot_20190720-214505.jpg?raw=true)
+<img src="https://raw.githubusercontent.com/achrafbenalaya/Adding-Icons-for-Xamarin.Forms/master/DemoIconsXamarin/DemoIconsXamarin/Screenshots/Screenshot_20190720-214459.jpg?token=ADGHC2RQOYGQXLYQCJCNTGK5HS5GU" height="50%" width="40%">
 
-![Font Awesome](https://github.com/achrafbenalaya/Adding-Icons-for-Xamarin.Forms/blob/master/DemoIconsXamarin/DemoIconsXamarin/Screenshots/Screenshot_20190720-214511.jpg?raw=true )
+<img src="https://github.com/achrafbenalaya/Adding-Icons-for-Xamarin.Forms/blob/master/DemoIconsXamarin/DemoIconsXamarin/Screenshots/Screenshot_20190720-214505.jpg?raw=true" height="50%" width="40%">
 
 <img src="https://github.com/achrafbenalaya/Adding-Icons-for-Xamarin.Forms/blob/master/DemoIconsXamarin/DemoIconsXamarin/Screenshots/Screenshot_20190720-214511.jpg?raw=true" height="50%" width="40%">
