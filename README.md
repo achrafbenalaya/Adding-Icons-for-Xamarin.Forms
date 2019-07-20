@@ -13,5 +13,5 @@ Bootstrap File
 You can get the "glyphicons-halflings-regular.ttf" file from this [Link](https://github.com/twbs/bootstrap-sass/blob/master/assets/fonts/bootstrap/glyphicons-halflings-regular.ttf)
 
 
-![Bootstrap](https://raw.githubusercontent.com/achrafbenalaya/Adding-Icons-for-Xamarin.Forms/master/DemoIconsXamarin/DemoIconsXamarin/Screenshots/Screenshot_20190720-214459.jpg?token=ADGHC2RQOYGQXLYQCJCNTGK5HS5GU)
+![Bootstrap](https://raw.githubusercontent.com/achrafbenalaya/Adding-Icons-for-Xamarin.Forms/master/DemoIconsXamarin/DemoIconsXamarin/Screenshots/Screenshot_20190720-214459.jpg?token=ADGHC2RQOYGQXLYQCJCNTGK5HS5GU| width=40)
 
