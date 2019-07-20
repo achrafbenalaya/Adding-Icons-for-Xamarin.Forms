@@ -19,4 +19,4 @@ You can get the "glyphicons-halflings-regular.ttf" file from this [Link](https:/
 
 ![Font Awesome](https://github.com/achrafbenalaya/Adding-Icons-for-Xamarin.Forms/blob/master/DemoIconsXamarin/DemoIconsXamarin/Screenshots/Screenshot_20190720-214511.jpg?raw=true )
 
-<img src="https://github.com/achrafbenalaya/Adding-Icons-for-Xamarin.Forms/blob/master/DemoIconsXamarin/DemoIconsXamarin/Screenshots/Screenshot_20190720-214511.jpg?raw=true" height="80" width="40">
+<img src="https://github.com/achrafbenalaya/Adding-Icons-for-Xamarin.Forms/blob/master/DemoIconsXamarin/DemoIconsXamarin/Screenshots/Screenshot_20190720-214511.jpg?raw=true" height="180" width="140">
