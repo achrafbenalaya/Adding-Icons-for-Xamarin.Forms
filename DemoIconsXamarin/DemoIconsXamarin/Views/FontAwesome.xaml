@@ -27,9 +27,9 @@
                    Grid.Row="0">
                 <Label.FontFamily>
                     <OnPlatform x:TypeArguments="x:String"
-                                Android="Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free Solid" 
+                                Android="Font Awesome 5 Free-Solid-900.otf#Font" 
                                 iOS="Font Awesome 5 Free" 
-                                WinPhone="Assets/Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free" />
+                                WinPhone="Assets/Font Awesome 5 Free-Solid-900.otf#Font" />
                 </Label.FontFamily>
             </Label>
 
@@ -42,9 +42,9 @@
                    Grid.Row="1">
                 <Label.FontFamily>
                     <OnPlatform x:TypeArguments="x:String"
-                                Android="Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free Solid" 
+                                Android="Font Awesome 5 Free-Solid-900.otf#Font" 
                                 iOS="Font Awesome 5 Free" 
-                                WinPhone="Assets/Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free" />
+                                WinPhone="Assets/Font Awesome 5 Free-Solid-900.otf#Font" />
                 </Label.FontFamily>
             </Label>
 
@@ -57,9 +57,9 @@
                    Grid.Row="2">
                 <Label.FontFamily>
                     <OnPlatform x:TypeArguments="x:String"
-                                Android="Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free Solid" 
+                                Android="Font Awesome 5 Free-Solid-900.otf#Fon" 
                                 iOS="Font Awesome 5 Free" 
-                                WinPhone="Assets/Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free" />
+                                WinPhone="Assets/Font Awesome 5 Free-Solid-900.otf#Font" />
                 </Label.FontFamily>
             </Label>
 
@@ -72,9 +72,9 @@
                    Grid.Row="3">
                 <Label.FontFamily>
                     <OnPlatform x:TypeArguments="x:String"
-                                Android="Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free Solid" 
+                                Android="Font Awesome 5 Free-Solid-900.otf#Font" 
                                 iOS="Font Awesome 5 Free" 
-                                WinPhone="Assets/Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free" />
+                                WinPhone="Assets/Font Awesome 5 Free-Solid-900.otf#Font" />
                 </Label.FontFamily>
             </Label>
 
@@ -93,9 +93,9 @@
                    Grid.Row="0">
                 <Label.FontFamily>
                     <OnPlatform x:TypeArguments="x:String"
-                                Android="Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free Solid" 
+                                Android="Font Awesome 5 Free-Solid-900.otf#Font" 
                                 iOS="Font Awesome 5 Free" 
-                                WinPhone="Assets/Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free" />
+                                WinPhone="Assets/Font Awesome 5 Free-Solid-900.otf#Font" />
                 </Label.FontFamily>
             </Label>
 
@@ -108,9 +108,9 @@
                    Grid.Row="1">
                 <Label.FontFamily>
                     <OnPlatform x:TypeArguments="x:String"
-                                Android="Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free Solid" 
+                                Android="Font Awesome 5 Free-Solid-900.otf#Font" 
                                 iOS="Font Awesome 5 Free" 
-                                WinPhone="Assets/Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free" />
+                                WinPhone="Assets/Font Awesome 5 Free-Solid-900.otf#Font" />
                 </Label.FontFamily>
             </Label>
 
@@ -123,9 +123,9 @@
                    Grid.Row="2">
                 <Label.FontFamily>
                     <OnPlatform x:TypeArguments="x:String"
-                                Android="Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free Solid" 
+                                Android="Font Awesome 5 Free-Solid-900.otf#Font" 
                                 iOS="Font Awesome 5 Free" 
-                                WinPhone="Assets/Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free" />
+                                WinPhone="Assets/Font Awesome 5 Free-Solid-900.otf#Font" />
                 </Label.FontFamily>
             </Label>
 
@@ -138,9 +138,9 @@
                    Grid.Row="3">
                 <Label.FontFamily>
                     <OnPlatform x:TypeArguments="x:String"
-                                Android="Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free Solid" 
+                                Android="Font Awesome 5 Free-Solid-900.otf#Font" 
                                 iOS="Font Awesome 5 Free" 
-                                WinPhone="Assets/Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free" />
+                                WinPhone="Assets/Font Awesome 5 Free-Solid-900.otf#Font" />
                 </Label.FontFamily>
             </Label>
 
@@ -158,9 +158,9 @@
                    Grid.Row="0">
                 <Label.FontFamily>
                     <OnPlatform x:TypeArguments="x:String"
-                                Android="Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free Solid" 
+                                Android="Font Awesome 5 Free-Solid-900.otf#Font" 
                                 iOS="Font Awesome 5 Free" 
-                                WinPhone="Assets/Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free" />
+                                WinPhone="Assets/Font Awesome 5 Free-Solid-900.otf#Font" />
                 </Label.FontFamily>
             </Label>
 
@@ -173,9 +173,9 @@
                    Grid.Row="1">
                 <Label.FontFamily>
                     <OnPlatform x:TypeArguments="x:String"
-                                Android="Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free Solid" 
+                                Android="Font Awesome 5 Free-Solid-900.otf#Font" 
                                 iOS="Font Awesome 5 Free" 
-                                WinPhone="Assets/Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free" />
+                                WinPhone="Assets/Font Awesome 5 Free-Solid-900.otf#Font" />
                 </Label.FontFamily>
             </Label>
 
@@ -188,9 +188,9 @@
                    Grid.Row="2">
                 <Label.FontFamily>
                     <OnPlatform x:TypeArguments="x:String"
-                                Android="Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free Solid" 
+                                Android="Font Awesome 5 Free-Solid-900.otf#Font" 
                                 iOS="Font Awesome 5 Free" 
-                                WinPhone="Assets/Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free" />
+                                WinPhone="Assets/Font Awesome 5 Free-Solid-900.otf#Font" />
                 </Label.FontFamily>
             </Label>
 
@@ -203,9 +203,9 @@
                    Grid.Row="3">
                 <Label.FontFamily>
                     <OnPlatform x:TypeArguments="x:String"
-                                Android="Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free Solid" 
+                                Android="Font Awesome 5 Free-Solid-900.otf#Font" 
                                 iOS="Font Awesome 5 Free" 
-                                WinPhone="Assets/Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free" />
+                                WinPhone="Assets/Font Awesome 5 Free-Solid-900.otf#Font" />
                 </Label.FontFamily>
             </Label>
 
@@ -218,9 +218,9 @@
                    Grid.Row="0">
                 <Label.FontFamily>
                     <OnPlatform x:TypeArguments="x:String"
-                                Android="Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free Solid" 
+                                Android="Font Awesome 5 Free-Solid-900.otf#Font" 
                                 iOS="Font Awesome 5 Free" 
-                                WinPhone="Assets/Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free" />
+                                WinPhone="Assets/Font Awesome 5 Free-Solid-900.otf#Font" />
                 </Label.FontFamily>
             </Label>
 
@@ -233,9 +233,9 @@
                    Grid.Row="1">
                 <Label.FontFamily>
                     <OnPlatform x:TypeArguments="x:String"
-                                Android="Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free Solid" 
+                                Android="Font Awesome 5 Free-Solid-900.otf#Font" 
                                 iOS="Font Awesome 5 Free" 
-                                WinPhone="Assets/Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free" />
+                                WinPhone="Assets/Font Awesome 5 Free-Solid-900.otf#Font" />
                 </Label.FontFamily>
             </Label>
 
@@ -248,9 +248,9 @@
                    Grid.Row="2">
                 <Label.FontFamily>
                     <OnPlatform x:TypeArguments="x:String"
-                                Android="Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free Solid" 
+                                Android="Font Awesome 5 Free-Solid-900.otf#Font" 
                                 iOS="Font Awesome 5 Free" 
-                                WinPhone="Assets/Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free" />
+                                WinPhone="Assets/Font Awesome 5 Free-Solid-900.otf#Font" />
                 </Label.FontFamily>
             </Label>
 
@@ -263,9 +263,9 @@
                    Grid.Row="3">
                 <Label.FontFamily>
                     <OnPlatform x:TypeArguments="x:String"
-                                Android="Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free Solid" 
+                                Android="Font Awesome 5 Free-Solid-900.otf#Font" 
                                 iOS="Font Awesome 5 Free" 
-                                WinPhone="Assets/Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free" />
+                                WinPhone="Assets/Font Awesome 5 Free-Solid-900.otf#Font" />
                 </Label.FontFamily>
             </Label>
 
